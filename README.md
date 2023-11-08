@@ -48,5 +48,5 @@ Finalmente, o pilar polimorfismo permite que diferentes tipos de carrinhos de LE
 Espero que esta explicação com exemplos relacionados ao carrinho de LEGO tenha sido clara e útil para sua compreensão da Programação Orientada a Objetos (POO). Se você tiver mais alguma pergunta ou precisar de esclarecimentos adicionais, fique à vontade para perguntar.
 ___
 
-Desenvolvido por [Gustavo Aguiar](https://github.com/gus-aguiar/MONITORIA-ESTRUTURADA-TRYBECAR/), © 2023
+Desenvolvido por [Gustavo Aguiar](https://github.com/gus-aguiar/), © 2023
 
